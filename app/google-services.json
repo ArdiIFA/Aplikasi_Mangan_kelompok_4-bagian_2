@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888918938021",
+    "firebase_url": "https://tubeskelompok4-5f41f-default-rtdb.firebaseio.com",
+    "project_id": "tubeskelompok4-5f41f",
+    "storage_bucket": "tubeskelompok4-5f41f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888918938021:android:870dd28c8e8c4b9a47584c",
+        "android_client_info": {
+          "package_name": "com.example.kelompok_empat_tubes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888918938021-jugh10th356frdv1nb4tja9joa508j9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDulV5Prd-NpuuB7E-ygGffawlYQ86R8ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888918938021-gq2qip8480l6st1cv60a4oletu2t8ih3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
